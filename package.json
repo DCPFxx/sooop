@@ -1,0 +1,13 @@
+{
+  "name": "stitch-glassmorphism-streamer-portal",
+  "version": "1.0.0",
+  "description": "SOOP Streamer Portal with Glassmorphism UI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["glassmorphism", "soop", "streamer-portal"],
+  "author": "",
+  "license": "ISC"
+}
